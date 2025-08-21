@@ -2,7 +2,7 @@
 #include "container_DI.hpp"
 #include "service.hpp"
 
-class App {
+class App { // composition root 
 private : 
 	ContainerDI& c; 
 public : 

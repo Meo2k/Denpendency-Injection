@@ -2,6 +2,6 @@
 
 struct ServiceRepository {
     virtual void query() = 0 ; 
-    virtual ~ServiceRepository() = default ; // research after 
+    virtual ~ServiceRepository() = default ; 
 }; 
 
